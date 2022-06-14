@@ -1,5 +1,12 @@
 {
 	"meta_name": "data set name",
 	"data":[
+		{
+			"name": "http://cecilcentre.ca/",
+			"free": false,
+			"tags": ["computer", "terminal", "public", "internet", "water", "cecil street community centre"],
+			"time": [[10,30], [15,45]],
+			
+		}
 	]
 }
